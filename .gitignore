@@ -1,0 +1,5 @@
+.idea/
+/public/*
+html2img
+.DS_Store
+./**/.DS_Store
